@@ -2,7 +2,7 @@
 
 I’m a 3rd-year Computer Science student at **Adama Science and Technology University**. I enjoy building web applications and improving my skills as a **Full-Stack Developer**.
 
-## Fun Fact
+## About Me
 I love exploring new places and trying new experiences.
 
 ---
