@@ -68,4 +68,4 @@ A beginner-friendly web app that checks if a text is a palindrome.
 
 - **Email:** kalkidanbirhane156@gmail.com  
 - **GitHub:** [https://github.com/kalkidanbr](https://github.com/kalkidanbr)  
-- **LinkedIn:** *(Add your LinkedIn profile here)*
+
