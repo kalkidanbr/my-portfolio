@@ -1,6 +1,6 @@
 # Hey, My name is Kalkidan Birhane
 
-I’m a 3rd-year Computer Science student at Adama Science and Technology University. I enjoy building web applications and improving my skills as a Full-Stack Developer.
+I am a 3rd-year Computer Science student at Adama Science and Technology University. I enjoy building web applications and improving my skills as a Full-Stack Developer.
 
 ## About Me
 I love exploring new places and trying new experiences.
@@ -56,6 +56,19 @@ A beginner-friendly web app that checks if a text is a palindrome.
 **Tech:** HTML, CSS, JavaScript  
 
 ---
+
+### Memory-Card-game
+[Repository](https://github.com/kalkidanbr/Memory-Card-game) | [Live Demo](https://kalkidanbr.github.io/Memory-Card-game/)
+A simple Memory Card Game built with HTML and CSS. The game challenges players to match pairs of cards by flipping them over.
+**Tech:** HTML, CSS, 
+
+---
+
+### Memory-Card-game
+[Repository](https://github.com/kalkidanbr/Memory-Card-game) | [Live Demo](https://kalkidanbr.github.io/Memory-Card-game/)
+A simple Memory Card Game built with HTML and CSS. The game challenges players to match pairs of cards by flipping them over.
+**Tech:** HTML, CSS, 
+
 
 ## GitHub Stats
 
