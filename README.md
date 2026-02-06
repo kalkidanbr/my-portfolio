@@ -60,14 +60,14 @@ A beginner-friendly web app that checks if a text is a palindrome.
 ### Memory-Card-game
 [Repository](https://github.com/kalkidanbr/Memory-Card-game) | [Live Demo](https://kalkidanbr.github.io/Memory-Card-game/)
 A simple Memory Card Game built with HTML and CSS. The game challenges players to match pairs of cards by flipping them over.
-**Tech:** HTML, CSS, 
+**Tech:** HTML, CSS 
+## Future Improvements
+
+- Add **JavaScript** to track moves and timer  
+- Add **scoreboard** or high score system  
+- Add **animations** and sound effects for feedback  
 
 ---
-
-### Memory-Card-game
-[Repository](https://github.com/kalkidanbr/Memory-Card-game) | [Live Demo](https://kalkidanbr.github.io/Memory-Card-game/)
-A simple Memory Card Game built with HTML and CSS. The game challenges players to match pairs of cards by flipping them over.
-**Tech:** HTML, CSS, 
 
 
 ## GitHub Stats
